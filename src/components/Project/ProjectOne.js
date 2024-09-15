@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
 const initData = {
-    sub_heading: "Project",
-    heading: "Upcoming IGOs",
+    sub_heading: "Project Raises",
+    heading: "Upcoming IDOs",
     btn: "View More",
     actionBtn: "Participate"
 }
@@ -11,15 +11,15 @@ const data = [
     {
         id: "1",
         img: "/img/thumb_1.png",
-        blockchain: "/img/ethereum.png",
+        blockchain: "/img/ethereum-classic.png",
         title: "Metaverse 3D",
-        reg_date: "2022-12-30",
+        reg_date: "2024-12-30",
         raise: "100k",
         val: "2.8M",
         allocation: "$0",
         progress: "25%",
         mecha: "0/100,069 MECHA",
-        busd: "0 BUSD"
+        busd: "0 USC"
     },
     {
         id: "2",
