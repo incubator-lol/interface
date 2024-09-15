@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
 const initData = {
-    sub_heading: "Creative",
-    heading: "Our Team",
+    sub_heading: "Portfolio Performance",
+    heading: "Investors",
     btn: "View Leaderboard"
 }
 
