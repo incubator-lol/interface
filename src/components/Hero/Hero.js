@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 
 const initData = {
-    sub_heading: "GameOn",
-    heading: "The Next Generation Web 3.0 IGO Launchpad",
-    content: "Full-scale Blockchain Gaming Ecosystem for IGOs & NFT Pre-Sales"
+    sub_heading: "Incubator",
+    heading: "Web3 IDO Launchpad",
+    content: "Explore, invest, and support groundbreaking technology built on Ethereum Classic."
 }
 
 class Hero extends Component {
@@ -30,7 +30,7 @@ class Hero extends Component {
                         </div>
                         {/* Buttons */}
                         <div className="button-group">
-                            <a className="btn btn-bordered active smooth-anchor" href="#explore"><i className="icon-rocket mr-2" />Explore IGOs</a>
+                            <a className="btn btn-bordered active smooth-anchor" href="#explore"><i className="icon-rocket mr-2" />Explore IDOs</a>
                             <a className="btn btn-bordered-white" href="/apply"><i className="icon-note mr-2" />Apply Now</a>
                         </div>
                         </div>
