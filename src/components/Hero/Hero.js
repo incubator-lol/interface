@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 const initData = {
     sub_heading: "Incubator",
-    heading: "A Crowdfunding Platform for Early Stage Blockchain Projects",
+    heading: "A Crowdfunding Platform for Blockchain Projects",
     content: "Explore, invest, and support groundbreaking technology built on Ethereum Classic."
 }
 
