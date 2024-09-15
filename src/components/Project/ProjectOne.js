@@ -12,66 +12,66 @@ const data = [
         id: "1",
         img: "/img/thumb_1.png",
         blockchain: "/img/ethereum-classic.png",
-        title: "Metaverse 3D",
-        reg_date: "2024-12-30",
+        title: "Project Seed",
+        reg_date: "2025-12-30",
         raise: "100k",
         val: "2.8M",
         allocation: "$0",
         progress: "25%",
-        mecha: "0/100,069 MECHA",
+        mecha: "0/100,069 RAISE",
         busd: "0 USC"
     },
     {
         id: "2",
         img: "/img/thumb_2.png",
-        blockchain: "/img/binance.png",
-        title: "Pixel Pix",
-        reg_date: "2022-11-25",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Dark Frontiers",
+        reg_date: "2025-11-25",
         raise: "85k",
         val: "1.9M",
         allocation: "$0",
         progress: "8%",
-        mecha: "0/94,752 MECHA",
-        busd: "0 BUSD"
+        mecha: "0/94,752 RAISE",
+        busd: "0 USC"
     },
     {
         id: "3",
         img: "/img/thumb_3.png",
-        blockchain: "/img/ethereum-gold.png",
-        title: "Cyber City",
-        reg_date: "2022-11-18",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Bit Hotel",
+        reg_date: "2025-11-18",
         raise: "69k",
         val: "3.2M",
         allocation: "$0",
         progress: "12%",
-        mecha: "0/87,074 MECHA",
-        busd: "0 BUSD"
+        mecha: "0/87,074 RAISE",
+        busd: "0 USC"
     },
     {
         id: "4",
         img: "/img/thumb_4.png",
-        blockchain: "/img/solana.png",
-        title: "Real Hunter",
-        reg_date: "2022-12-28",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Demole",
+        reg_date: "2025-12-28",
         raise: "90k",
         val: "2.6M",
         allocation: "$0",
         progress: "27%",
-        mecha: "0/532,399 MECHA",
-        busd: "0 BUSD"
+        mecha: "0/532,399 RAISE",
+        busd: "0 USC"
     },
     {
         id: "5",
         img: "/img/thumb_5.png",
-        blockchain: "/img/ethereum-gold.png",
+        blockchain: "/img/ethereum-classic.png",
         title: "BitHotel",
-        reg_date: "2022-10-30",
+        reg_date: "2025-10-30",
         raise: "120k",
         val: "4.8M",
         allocation: "$0",
         progress: "42%",
-        mecha: "0/298,064 MECHA",
-        busd: "0 BUSD"
+        mecha: "0/298,064 RAISE",
+        busd: "0 USC"
     }
 ]
 

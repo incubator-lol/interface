@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 const initData = {
     sub_heading: "Incubator",
-    heading: "A Next Generation Web 3.0 IDO Launchpad",
+    heading: "A Next Generation Web3 Launchpad for IDOs & NFTs",
     content: "Explore, invest, and support groundbreaking technology built on Ethereum Classic."
 }
 
