@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 const initData = {
-    sub_heading: "Project Raises",
+    sub_heading: "Crowdfunding Campaigns",
     heading: "Upcoming IDOs",
     btn: "View More",
     actionBtn: "Participate"

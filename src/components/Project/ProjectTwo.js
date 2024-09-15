@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
 const initData = {
-    sub_heading: "Exclusive",
-    heading: "Previous IGO",
+    sub_heading: "Funded Campaigns",
+    heading: "Completed IDOs",
     btn: "View All",
     actionBtn: "Load More"
 }
@@ -11,9 +11,9 @@ const data = [
     {
         id: "1",
         img: "/img/thumb_6.png",
-        blockchain: "/img/ethereum.png",
+        blockchain: "/img/ethereum-classic.png",
         title: "Ancient Kingdom",
-        price: "Price (GAC) = 0.89 BUSD",
+        price: "Price (KING) = 0.89 USC",
         publish: "5 hours ago",
         process: "x86",
         amount: "$1.06298"
@@ -21,9 +21,9 @@ const data = [
     {
         id: "2",
         img: "/img/thumb_7.png",
-        blockchain: "/img/binance.png",
-        title: "Galaxy War",
-        price: "Price (GAC) = 0.72 BUSD",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Realm Hunter",
+        price: "Price (HUNT) = 0.72 USC",
         publish: "7 hours ago",
         process: "x97",
         amount: "$0.9268"
@@ -31,9 +31,9 @@ const data = [
     {
         id: "3",
         img: "/img/thumb_8.png",
-        blockchain: "/img/solana.png",
-        title: "Crypto Art",
-        price: "Price (GAC) = 0.68 BUSD",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Cyber City",
+        price: "Price (CITY) = 0.68 USC",
         publish: "9 hours ago",
         process: "x64",
         amount: "$2.87641"
@@ -41,9 +41,9 @@ const data = [
     {
         id: "4",
         img: "/img/thumb_9.png",
-        blockchain: "/img/ethereum-gold.png",
-        title: "Marvel Design",
-        price: "Price (GAC) = 0.49 BUSD",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Pixel Pix",
+        price: "Price (PIX) = 0.49 USC",
         publish: "6 hours ago",
         process: "x75",
         amount: "$1.5967"
@@ -51,9 +51,9 @@ const data = [
     {
         id: "5",
         img: "/img/thumb_10.png",
-        blockchain: "/img/ethereum.png",
-        title: "Partial Monk",
-        price: "Price (GAC) = 0.78 BUSD",
+        blockchain: "/img/ethereum-classic.png",
+        title: "Chaos of 12 Legends",
+        price: "Price (LGD) = 0.78 USC",
         publish: "9 hours ago",
         process: "x94",
         amount: "$0.43615"
