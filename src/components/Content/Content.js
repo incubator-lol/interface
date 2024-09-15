@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-const BASE_URL = "%PUBLIC_URL%/content";
+const BASE_URL = "https://my-json-server.typicode.com/themeland/gameon-json/content";
 
 class Content extends Component {
     state = {
